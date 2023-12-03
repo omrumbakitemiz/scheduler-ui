@@ -1,13 +1,17 @@
 {
   "name": "nuxt-app",
   "devDependencies": {
+    "@mdi/font": "^7.3.67",
     "@nuxt/devtools": "latest",
-    "@nuxtjs/tailwindcss": "latest",
+    "@nuxtjs/tailwindcss": "^6.10.1",
     "@pinia/nuxt": "latest",
     "nuxt": "^3.8.2",
     "nuxt-vitest": "latest",
+    "radix-vue": "^1.2.3",
+    "vite-plugin-vuetify": "^1.0.2",
     "vue": "^3.3.8",
-    "vue-router": "^4.2.5"
+    "vue-router": "^4.2.5",
+    "vuetify": "^3.4.4"
   },
   "private": true,
   "scripts": {
